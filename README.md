@@ -1,6 +1,7 @@
 # Your-voice-Your-Choice-Project
-Student Feedback System : 
-    Front-End: Java, Backend: JDBC
+## Student Feedback System : 
+    
+Front-End: Java, Backend: JDBC
 * The title of the project is “Your Voice-Your Choice”. 
 * This project mainly handles the feedback activities given by the students.
 * This project has most of the facilities that a modern college require to computerize its day to day jobs. 
